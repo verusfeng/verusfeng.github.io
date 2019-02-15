@@ -2,7 +2,7 @@
 layout: post
 title: 软件安装SublimeText & Atom
 tags: sublime,atom
-category: 指引
+category: 软件
 date: 2018-05-16
 modify_date: 2018-05-16
 ---
