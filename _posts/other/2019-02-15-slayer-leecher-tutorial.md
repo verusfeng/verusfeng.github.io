@@ -1,7 +1,6 @@
 ---
-
 layout: post
-title: SLAYER Leecher试用教程
+title: SLAYER Leecher使用教程
 category: 其他
 ---
 
