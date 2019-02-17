@@ -116,6 +116,7 @@ $git check-ignore
 ### git用户设置user
 
 git config --global user.name  " "
+
 git config --global user.email " "
 
 ### git别名设置alias
@@ -129,6 +130,7 @@ $git config --global alias.addall "add -A ."
 ### git代理设置proxy
 
 git config --global https.proxy localhost:1080
+
 git config --global http.proxy localhost:1080
 
 
