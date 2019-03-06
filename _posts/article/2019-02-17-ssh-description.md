@@ -66,17 +66,17 @@ title: 对ssh的初步认识
 
 #### ssh尝试
 1. 从ss节点中找一个服务器地址
-    - ![ssh-host](./note-pic/ssh-host.png)
+    - ![ssh-host]({{ site.baseurl }}/assets/img/article/ssh-description/ssh-host.png)
 2. 用xshell登录，填入地址端口22
-    - ![ssh-login](./note-pic/ssh-xshell-login.png)
+    - ![ssh-login]({{ site.baseurl }}/assets/img/article/ssh-description/ssh-xshell-login.png)
 3. 确认公钥指纹是否正确
-    - ![ssh-pubkey](./note-pic/ssh-pubkey.png)
+    - ![ssh-pubkey]({{ site.baseurl }}/assets/img/article/ssh-description/ssh-pubkey.png)
 4. 输入用户名
-    - ![ssh-username](./note-pic/ssh-username.png)
+    - ![ssh-username]({{ site.baseurl }}/assets/img/article/ssh-description/ssh-username.png)
 5. 输入用户名对应密码
-    - ![ssh-passcode](./note-pic/ssh-passcode.png)
+    - ![ssh-passcode]({{ site.baseurl }}/assets/img/article/ssh-description/ssh-passcode.png)
 6. 可选public key认证
-    - ![ssh-keylogin](./note-pic/ssh-keylogin.png)
+    - ![ssh-keylogin]({{ site.baseurl }}/assets/img/article/ssh-description/ssh-keylogin.png)
 
 
 #### ssh转发

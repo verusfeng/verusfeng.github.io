@@ -21,13 +21,13 @@ category: 文章
 1. Ruby下载安装
     - 地址[link](https://rubyinstaller.org/downloads/)
     - 安装完成会弹出窗口
-    - ![1]({{ site.baseurl }}/assets/img/article/ruby-install-1.jpg)
+    - ![1]({{ site.baseurl }}/assets/img/article/intall-jekyll-on-windows/ruby-install-1.jpg)
     - 如果安装失败，重新从命令行执行ridk install选择3
-    - ![2]({{ site.baseurl }}/assets/img/article/ruby-install-2.jpg)
+    - ![2]({{ site.baseurl }}/assets/img/article/intall-jekyll-on-windows/ruby-install-2.jpg)
 
 2. 再打开一个新的命令行窗口（cmd/powershell/bash/msys2 都行），输入以下命令安装 jekyll
     - gem install jekyll bundler
-    - ![3]({{ site.baseurl }}/assets/img/article/ruby-install-3.jpg)
+    - ![3]({{ site.baseurl }}/assets/img/article/intall-jekyll-on-windows/ruby-install-3.jpg)
 
 
 ## 进入blog所在目录
