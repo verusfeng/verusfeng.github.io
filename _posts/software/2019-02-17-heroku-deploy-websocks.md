@@ -36,3 +36,10 @@ title: 使用Heroku部署websocks代理
 4. 运行ss-h.exe 或者start.vbs(后台运行)
 
 5. Try Connect to google, success!
+
+## Keep Herokuapp alive
+1. Every 30 minute requests your webapp site.
+
+2. Kaffeine pings your Heroku app every 30 minutes so it will never go to sleep
+
+3. 注意时区差别
